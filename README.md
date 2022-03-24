@@ -1,4 +1,4 @@
-# FloatClipBoard
+# FloatClipBoard | TamperMonkey
 <pre>
 在指定網頁上產生漂浮按鈕，方便使用者直接複製設定好的文字
 若要調整按鈕位置，於 GM_addStyle 內的第一個ul.navigation中，有left跟top的數值可以調整
